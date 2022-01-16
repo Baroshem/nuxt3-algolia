@@ -426,6 +426,13 @@
   dependencies:
     algoliasearch "^4.11.0"
 
+"@nuxt-modules/algolia@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@nuxt-modules/algolia/-/algolia-0.3.0.tgz#48e33756fc4c943add666260dd0f14ac7bcf6b76"
+  integrity sha512-/Koxh1OuXVCPU0TpKSSUrPmgW+PswHsc7dvSWpZSf+BBorWCDun+tW2blbZ6OH1thdY13AZrs6r5EMqymC/1xg==
+  dependencies:
+    algoliasearch "^4.11.0"
+
 "@nuxt/design@0.1.5", "@nuxt/design@^0.1.5":
   version "0.1.5"
   resolved "https://registry.yarnpkg.com/@nuxt/design/-/design-0.1.5.tgz#8d63a5a8e94c070ca7ef504327577888f43fb0ce"
