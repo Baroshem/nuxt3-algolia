@@ -419,17 +419,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@nuxt-commerce/algolia@^0.1.2":
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/@nuxt-commerce/algolia/-/algolia-0.1.2.tgz#0c39cb0eccffdc3d5a629347ec0448df23243965"
-  integrity sha512-65MGgGykEF+NG/Es90bf53XpJttfPUXxYMaL86SA57N9Lf228lyJOW+s/zc6/7KUoi1bOitUAvh85BNkuwv2fw==
-  dependencies:
-    algoliasearch "^4.11.0"
-
-"@nuxt-modules/algolia@^0.3.0":
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/@nuxt-modules/algolia/-/algolia-0.3.0.tgz#48e33756fc4c943add666260dd0f14ac7bcf6b76"
-  integrity sha512-/Koxh1OuXVCPU0TpKSSUrPmgW+PswHsc7dvSWpZSf+BBorWCDun+tW2blbZ6OH1thdY13AZrs6r5EMqymC/1xg==
+"@nuxt-modules/algolia@^0.4.0":
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/@nuxt-modules/algolia/-/algolia-0.4.0.tgz#d9f5a6ad0eac7d7ed2fbc4e604919c8fc34b5232"
+  integrity sha512-8yj+iR94JMeptIoizU01uhj5ZC5CdO62xOLk/UOBNaEmZplxSQPRXweyCeJPRxpfEYknC/964U73K7fDQTsumw==
   dependencies:
     algoliasearch "^4.11.0"
 
