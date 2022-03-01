@@ -9,6 +9,6 @@
     "nuxt3": "latest"
   },
   "dependencies": {
-    "@nuxt-modules/algolia": "^0.4.0"
+    "@nuxtjs/algolia": "^0.7.0"
   }
 }
