@@ -1,11 +1,11 @@
-import { defineNuxtConfig } from 'nuxt3'
+import { defineNuxtConfig } from 'nuxt'
 
 // https://v3.nuxtjs.org/docs/directory-structure/nuxt.config
 export default defineNuxtConfig({
-  buildModules: [
+  modules: [
     ['@nuxtjs/algolia', {
-      apiKey: '<YOUR_SEARCH_API_KEY>',
-      applicationId: '<YOUR_APPLICATION_ID>'
+      apiKey: process.env.ALGOLIA_SEARCH_API_KEY,
+      applicationId: process.env.ALGOLIA_APP_ID,
     }]
   ],
 })
